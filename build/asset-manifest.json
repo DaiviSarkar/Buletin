@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1840b14c.css",
+    "main.js": "/static/js/main.f2115de9.js",
+    "static/media/John-Wick-Chapter-4.jpg": "/static/media/John-Wick-Chapter-4.e63255e355ce8fe5d480.jpg",
+    "static/media/writing.png": "/static/media/writing.f407f079d9e21290267f.png",
+    "index.html": "/index.html",
+    "main.1840b14c.css.map": "/static/css/main.1840b14c.css.map",
+    "main.f2115de9.js.map": "/static/js/main.f2115de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1840b14c.css",
+    "static/js/main.f2115de9.js"
+  ]
+}
